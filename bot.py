@@ -55,10 +55,10 @@ def keep_alive():
 # --- Configuration ---
 TOKEN = "8924291483:AAG1h14bD5f3iu2MqE65UdPBX1MCGnySD6I" #bot token dalo yeha
 OWNER_ID = 8675132585 #yha tumhra chat id dalo
-ADMIN_ID = 8675132585 #yeha pehla admin chat id dalo
+ADMIN_ID = 8753914631 #yeha pehla admin chat id dalo
 ADMIN_ID_2 = 0  #yeha doosra admin chat id dalo (0 = disabled)
 YOUR_USERNAME = '@CXXWIO' #yeha tumhra username dala
-UPDATE_CHANNEL = 'https://t.me/SHIVA_GC' #yeha chnl link dalo''
+UPDATE_CHANNEL = 'SHIVA_GC' #yeha chnl link dalo''
 # Force-join channels removed — users can use bot directly
 
 # Folder setup - using absolute paths
